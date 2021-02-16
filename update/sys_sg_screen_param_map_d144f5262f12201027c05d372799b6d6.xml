@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Req type">487f29e22f12201027c05d372799b636</item_parameter>
+        <screen display_value="By Request Type">b3d039a22f12201027c05d372799b621</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 02:34:50</sys_created_on>
+        <sys_id>d144f5262f12201027c05d372799b6d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>487f29e22f12201027c05d372799b636</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_d144f5262f12201027c05d372799b6d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 02:34:50</sys_updated_on>
+        <ui_parameter display_value="Request type">e8f335262f12201027c05d372799b671</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
